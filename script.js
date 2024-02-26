@@ -1,3 +1,4 @@
+// script
 var canvas,
  stage,
  width = 650,
