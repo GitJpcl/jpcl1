@@ -1,4 +1,4 @@
-// script
+// script **** new feature added
 var canvas,
  stage,
  width = 650,
